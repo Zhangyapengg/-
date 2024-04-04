@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/clear.png</file>
+        <file>images/Color.png</file>
+        <file>images/italic.png</file>
+        <file>images/Save.png</file>
+        <file>images/send-fill.png</file>
+        <file>images/underline.png</file>
+        <file>images/touxiang1.jpg</file>
+        <file>images/touxiang2.jpg</file>
+        <file>images/touxiang3.jpg</file>
+        <file>images/touxiang4.jpg</file>
+        <file>images/touxiang5.jpg</file>
+        <file>images/touxiang6.jpg</file>
+        <file>images/qq.jpg</file>
+    </qresource>
+</RCC>
